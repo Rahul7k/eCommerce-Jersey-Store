@@ -1,9 +1,10 @@
 import React from 'react'
+import { Container } from 'react-bootstrap';
 
 const Header = () => {
     return (
         <header>
-            Header
+            <Container fluid>Header</Container>
         </header>
     )
 }
