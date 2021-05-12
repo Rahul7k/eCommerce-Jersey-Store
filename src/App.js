@@ -1,8 +1,16 @@
 import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
-function App() {
+const App = () => {
   return (
-    <p>E-Commerce Jersey Store Application Publishing Soon</p>
+    <>
+      <Header />
+      <main>
+        <p>E-Commerce Jersey Store Application Publishing Soon</p>
+      </main>
+      <Footer />
+    </>
   );
 }
 
