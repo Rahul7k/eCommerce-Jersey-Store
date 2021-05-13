@@ -1,3 +1,7 @@
+# E-Commerce Jersey Store Website is currently in development
+Check here for work completed till now: (https://thejerseyshop.netlify.app/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
