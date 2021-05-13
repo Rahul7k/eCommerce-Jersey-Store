@@ -53,7 +53,7 @@ const products = [
   },
   {
     _id: '5',
-    name: 'Borussia Dortmunt Home Jersey',
+    name: 'Borussia Dortmund Home Jersey',
     image: '/images/dortmund.jpg',
     description:
       'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
