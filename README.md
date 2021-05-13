@@ -1,6 +1,7 @@
 # E-Commerce Jersey Store Website is currently in development
-Technology Using: MERN
-Check here for work completed till now: (https://thejerseyshop.netlify.app/)
+Check here for work completed till now: (https://thejerseyshop.netlify.app/)\
+
+MERN Website
 
 
 # Getting Started with Create React App
