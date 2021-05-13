@@ -1,5 +1,5 @@
 # E-Commerce Jersey Store Website is currently in development
-Check here for work completed till now: (https://thejerseyshop.netlify.app/)\
+Check here for work completed till now: (https://thejerseyshop.netlify.app/) \
 
 MERN Website
 
