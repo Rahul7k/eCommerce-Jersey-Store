@@ -4,7 +4,7 @@ const products = [
     name: 'AC Milan Home Jersey',
     image: '/images/acmilan.jpg',
     description:
-      'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working',
+      'Represent AC Milan in style with 2020/21 official team home jersey. Produced by Puma',
     brand: 'Puma',
     category: 'Jersey',
     price: 89.99,
@@ -17,7 +17,7 @@ const products = [
     name: 'Arsenal Home Jersey',
     image: '/images/arsenal.jpg',
     description:
-      'Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life',
+      'Represent Arsenal in style with 2020/21 official team home jersey. Produced by Adidas',
     brand: 'Adidas',
     category: 'Jersey',
     price: 599.99,
@@ -30,7 +30,7 @@ const products = [
     name: 'Barcelona Home Jersey',
     image: '/images/barcelona.jpg',
     description:
-      'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+      'Represent Barcelona in style with 2020/21 official team home jersey. Produced by Nike',
     brand: 'Nike',
     category: 'Jersey',
     price: 929.99,
@@ -43,7 +43,7 @@ const products = [
     name: 'Bayern Munich Home Jersey',
     image: '/images/bayern.jpg',
     description:
-      'The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music',
+      'Represent Bayern in style with 2020/21 official team home jersey. Produced by Adidas',
     brand: 'Adidas',
     category: 'Jersey',
     price: 399.99,
@@ -56,7 +56,7 @@ const products = [
     name: 'Borussia Dortmund Home Jersey',
     image: '/images/dortmund.jpg',
     description:
-      'Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience',
+      'Represent Dortmund in style with 2020/21 official team home jersey. Produced by Puma',
     brand: 'Puma',
     category: 'Jersey',
     price: 49.99,
@@ -69,7 +69,7 @@ const products = [
     name: 'Chelsea Home Jersey',
     image: '/images/chelsea.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent Chelsea in style with 2020/21 official team home jersey. Produced by Nike',
     brand: 'Nike',
     category: 'Jersey',
     price: 29.99,
@@ -82,7 +82,7 @@ const products = [
     name: 'Inter Milan Home Jersey',
     image: '/images/inter.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent Inter Milan in style with 2020/21 official team home jersey. Produced by Adidas',
     brand: 'Nike',
     category: 'Jersey',
     price: 29.99,
@@ -95,7 +95,7 @@ const products = [
     name: 'Juventus Home Jersey',
     image: '/images/juve.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent Juve in style with 2020/21 official team home jersey. Produced by Adidas',
     brand: 'Adidas',
     category: 'Jersey',
     price: 29.99,
@@ -108,7 +108,7 @@ const products = [
     name: 'Liverpool Home Jersey',
     image: '/images/liverpool.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent Liverpool in style with 2020/21 official team home jersey. Produced by Nike',
     brand: 'Nike',
     category: 'Jersey',
     price: 29.99,
@@ -121,7 +121,7 @@ const products = [
     name: 'Manchester City Home Jersey',
     image: '/images/mancity.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent City in style with 2020/21 official team home jersey. Produced by Puma',
     brand: 'Puma',
     category: 'Jersey',
     price: 29.99,
@@ -134,7 +134,7 @@ const products = [
     name: 'Manchester United Home Jersey',
     image: '/images/united.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent United in style with 2020/21 official team home jersey. Produced by Adidas',
     brand: 'Adidas',
     category: 'Jersey',
     price: 29.99,
@@ -147,7 +147,7 @@ const products = [
     name: 'PSG Home Jersey',
     image: '/images/psg.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent PSG in style with 2020/21 official team home jersey. Produced by Nike',
     brand: 'Nike',
     category: 'Jersey',
     price: 29.99,
@@ -160,7 +160,7 @@ const products = [
     name: 'Real Madrid Home Jersey',
     image: '/images/real.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent Real Madrid in style with 2020/21 official team home jersey. Produced by Adidas',
     brand: 'Adidas',
     category: 'Jersey',
     price: 29.99,
@@ -173,7 +173,7 @@ const products = [
     name: 'Tottenham Hotspur Home Jersey',
     image: '/images/tottenham.jpg',
     description:
-      'Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space',
+      'Represent Tottenham in style with 2020/21 official team home jersey. Produced by Nike',
     brand: 'Nike',
     category: 'Jersey',
     price: 29.99,
