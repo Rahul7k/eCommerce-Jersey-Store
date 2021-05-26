@@ -82,7 +82,7 @@ const products = [
     name: 'Inter Milan Home Jersey',
     image: '/images/inter.jpg',
     description:
-      'Represent Inter Milan in style with 2020/21 official team home jersey. Produced by Adidas',
+      'Represent Inter Milan in style with 2020/21 official team home jersey. Produced by Nike',
     brand: 'Nike',
     category: 'Jersey',
     price: 29.99,
