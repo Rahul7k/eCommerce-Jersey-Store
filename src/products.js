@@ -53,7 +53,7 @@ const products = [
   },
   {
     _id: '5',
-    name: 'Borussia Dortmund Home Jersey',
+    name: 'Dortmund Home Jersey',
     image: '/images/dortmund.jpg',
     description:
       'Represent Dortmund in style with 2020/21 official team home jersey. Produced by Puma',
@@ -131,7 +131,7 @@ const products = [
   },
   {
     _id: '11',
-    name: 'Manchester United Home Jersey',
+    name: 'Man United Home Jersey',
     image: '/images/united.jpg',
     description:
       'Represent United in style with 2020/21 official team home jersey. Produced by Adidas',
@@ -170,7 +170,7 @@ const products = [
   },
   {
     _id: '14',
-    name: 'Tottenham Hotspur Home Jersey',
+    name: 'Tottenham Home Jersey',
     image: '/images/tottenham.jpg',
     description:
       'Represent Tottenham in style with 2020/21 official team home jersey. Produced by Nike',
